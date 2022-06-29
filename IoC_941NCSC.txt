@@ -39,7 +39,8 @@ mcafee.bluesky1234.com
 media.vietnamflash.com
 mil.dungk.com
 mil.zdungk.com
-mmchj2.telorg.net	news.welikejack.com
+mmchj2.telorg.net	
+news.welikejack.com
 npt.vnptnet.info
 ns.fushing.org
 nycl.neverdropd.com
@@ -55,7 +56,8 @@ v3.hinitial.com
 v2.hinitial.com
 jack.micfkbeljacob.com
 df.micfkbeljacob.com
-micfkbeljacob.com	t1.hinitial.com
+micfkbeljacob.com	
+t1.hinitial.com
 mailedc.publicvm.com
 helpinfo.publicvm.com
 goodluck23.jp.us
@@ -92,7 +94,7 @@ dafom.dev
 cryptais.com
 aumentarelevisite.com
 15.235.33.14
-junepr happy.nanoace.co.kr
+happy.nanoace.co.kr
 mariamchurch.com
 jungfrau.co.kr int.com
 beenos.biz
